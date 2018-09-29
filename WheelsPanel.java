@@ -16,6 +16,7 @@ import javax.swing.ButtonGroup;
 import java.awt.GridLayout;
 import javax.swing.border.TitledBorder;
 
+@SuppressWarnings("serial")
 public class WheelsPanel extends JPanel {
 
    /**
