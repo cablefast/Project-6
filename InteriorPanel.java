@@ -15,6 +15,7 @@ import javax.swing.JCheckBox;
 import java.awt.GridLayout;
 import javax.swing.border.TitledBorder;
 
+@SuppressWarnings("serial")
 public class InteriorPanel extends JPanel {
 
    /**
