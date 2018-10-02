@@ -2,7 +2,7 @@
 OrderMenu class is a Main method. It calls OrderCalculation and sets some basic swing elements.
 
 @author Matthew Flautt
-@version 1.0
+@version 1.1
 
 COP5007	Project #: 6
 File Name: OrderMenu.java
