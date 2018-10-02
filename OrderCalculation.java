@@ -20,6 +20,11 @@ import java.awt.event.ActionEvent;
 
 public class OrderCalculation extends JFrame{
    
+    /**
+	* Because it's recommended when extending JFrame
+	*/
+	private static final long serialVersionUID = 1L;
+
    /**
    create color panel object for color choice selection
    */
